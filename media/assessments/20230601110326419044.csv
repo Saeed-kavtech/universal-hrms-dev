@@ -1,0 +1,16 @@
+﻿S.#,Question,Option1,Option2,Option3,Option4,Answer,Time,complexity_level,total_options
+1,Which of the following key metrics is/are used by search engines?,Links,Content, Page Structure,All of the above,4,40,4,4
+2,What are the links from other sites called?,Frontlinks, Backlinks,Boundlinks, Hidelinks,2,40,3,4
+3,Which of the following is/are the type of SEO?, White Hat,Black Hat, Both A and B, None of the above,3,40,1,4
+4, Which of the following is/are an/example of White Hat SEO?,Quality Content,Internal Linking, Link Building,All of the above,4,40,5,4
+5,Search Engine works in the following stage(s) -,Crawling,Indexing,Retrieval,All of the above,4,40,2,4
+6,One or more IP addresses are identified by a ____.,Search Engine,Portal, Domain Name, Algorithm,3,40,1,4
+7,"By conducting ____ your target audience's queries, you can determine what information they are searching for and the keywords they are using.",Keyword Research,Analyzing, Both A and B, None of the above,3,40,4,4
+8,How to choose the best keywords?, Use long-tail keywords,Perform latent semantic indexing, Use location-based keywords, All of the above,4,40,2,4
+9,Search engine results in pages display ____ as clickable headlines above website URLs.,Title Tags, Search Engines, Meta Keywords,Meta Description,1,40,3,4
+10,"In the ____ code of a webpage, a meta description is a short paragraph.", CSS, HTML,Java, C++,2,40,3,4
+11,Which of the following is TRUE about optimizing meta keywords?," For each page, use more than ten to fifteen meta keywords", Separate your meta keywords with a comma and leave space between them, Meta keywords and phrases should not be repeated,Your meta keyword list should not begin with the most important word,3,40,3,4
+12,Which of the following factors have an impact on Google Page Rank?,The total number of inbound links to a page of a website,The subject matter of the site providing the inbound link to a page of a website, The text used to describe the inbound link to a page of a website ,D. The number of outbound links on the page that contains the inbound link to a page of a website,1,40,1,4
+13,Which of the following free tools/websites could help you identify which city in the world has the largest search for the keyword - “six sigma”?,Yahoo Search Term Suggestion Tool ,Google Trends , Advanced Web Ranking ,Google Traffic Estimator  ,3,40,1,4
+14,What does the 302 server response code signify?," Signifies conflict, too many people wanted the same file at the same time",The page has been removed permanently , The page is moved temporarily , The method you are using to access the file is not allowed ,3,40,5,4
+15,How are site maps important for the search engine optimization process?,"Site maps help the search engine editorial staff to quickly go through a website, hence ensuring quicker placement ", Google gives credit to the websites having site maps. ,Site maps help the search engine spider pick up more pages from the website ,None of the above ,3,40,5,4

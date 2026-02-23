@@ -1,0 +1,13 @@
+﻿S.#,Question,Option1,Option2,Option3,Option4,,Answer,Time,complexity_level,total_options
+1,Among the following option identify the one which is not a type of learning,Semi unsupervised learning,Supervised learning,Reinforcement learning,Unsupervised learning,,1,20,3,4
+2,Identify the type of learning in which labeled training data is used,Semi unsupervised learning,Supervised learning,Reinforcement learning,Unsupervised learning,,2,20,2,4
+3,Which of the following machine learning algorithm is based upon the idea of bagging?,Decision tree,Random-forest,Classification,Regression,,2,20,5,4
+4,Machine learning is a subset of which of the following.,Artificial intelligence,Deep learning,Data learning,None of the above,,1,20,1,4
+5,Which of the following machine learning techniques helps in detecting the outliers in data?,Classification,Clustering,Anomaly detection,All of the above,,3,20,5,4
+6,Among the following options identify the one which is false regarding regression.,It is used for the prediction,It is used for interpretation,It relates inputs to outputs,It discovers casual relationships,,4,20,3,4
+7,Choose whether the following statement is true or false:  The backpropagation law is also known as the generalized Delta rule.,TRUE,FALSE,,,,1,20,2,2
+8,Identify the difficulties with the k-nearest neighbor algorithm.,Curse of dimensionality,Calculate the distance of the test ,case from all training cases,Both A and B,,4,20,4,4
+9,What does K stand for in K mean algorithm?,Number of clusters,Number of data,Number of attributes,Number of iterations,,4,20,5,4
+10,Which of the following is not a supervised learning,PCA,Naive Bayesian,Linear regression,Decision tree,,1,20,5,4
+,,,,,,,,,,
+ , ,,,,,,,,,

@@ -1,0 +1,29 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore the virtual environment folder (if you're using one)
+env/
+venv/
+nohup.out
+
+# Ignore local development settings
+local_settings.py
+
+# Ignore database files (if applicable)
+*.sqlite3
+
+# Ignore media and static files (if applicable)
+#/media/
+#/static/
+
+# Ignore log files
+*.log
+*.idea/
+.vscode/
+# Ignore sensitive or private files containing secret keys or credentials
+secret_key.txt
+credentials.json
+manage.py
+/static

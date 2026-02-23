@@ -1,0 +1,6 @@
+﻿S.#,Question,Option1,Option2,Option3,Option4,Answer,Time,complexity_level,total_options
+1,  Boundary value analysis belong to?,White Box Testing.,Black Box Testing.,Grey Box Testing,White & Black Box Testing.,2,20,1,4
+2,  What are the various Testing Levels?,Unit Testing,Integration Testing,Integration Testing,All of the above,4,35,2,4
+3,  Acceptance testing is also known as,Grey box testing,White box testing,Alpha Testing,Beta testing,4,80,3,4
+4, Unit testing is done by,Users,Developers,Customers,None of the above,2,95,4,4
+5,  Validation refers to the set of tasks that ensure that software correctly implements a specific function,TRUE,FALSE,,,2,120,5,2

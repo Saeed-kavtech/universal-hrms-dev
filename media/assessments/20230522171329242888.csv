@@ -1,0 +1,16 @@
+﻿S.#,Question,Option1,Option2,Option3,Option4,Answer,Time,complexity_level,total_options
+1,  Which of the following is NOT a common type of software defect? ,Functional defect,Performance defect,Usability defect,Security defect,4,20,4,4
+2,Which of the following is NOT a common component of a test plan? ,Test objectives,Test scope,Test metrics,Test budget,4,20,1,4
+3,Which of the following is NOT a common type of software testing documentation? ,Test plan,Test cases,Test scripts,User manuals,4,20,3,4
+4,Which of the following is NOT a common component of a test case?,Test procedure,Expected results,Test data,Source code,4,20,4,4
+5,Which of the following is NOT a common type of software defect severity?  ,Critical,Major,Minor,Trivial,4,20,1,4
+6,Which of the following is NOT a common type of API?,RESTful API,SOAP API,GraphQL API,RSpec API,4,20,3,4
+7,Which of the following is NOT a common challenge in API testing?,Testing for different data formats,Testing for handling of large payloads,Testing for proper authentication and authorization,Testing for GUI responsiveness,4,20,5,4
+8,Which of the following is NOT a common type of API testing?,Unit testing,Integration testing,Functional testing,Performance testing,1,20,3,4
+9,What is the protocol used in REST?,FTP,HTTP,JMX,SOAP,2,20,5,4
+10,Which HTTP method do we use to make an HTTP request to update an existing resource?,POST,PUT,UPDATE,DELETE,2,20,2,4
+11,The outer join is divided again in ____ types,2,3,4,5,1,20,5,4
+12,"In data base testing, what are the steps to test data loading? ",Source data should be known,Target data should be known,Compatibility of source and target should be checked,All of the above,4,20,5,4
+13,What is the primary goal of database testing? ,To test the database infrastructure,To test the database administration tools,To ensure that data is stored and retrieved correctly,All of the above,3,20,5,4
+14,Which of the following is NOT a common step in database testing?,Test planning and preparation,Test execution and reporting,Test analysis and optimization,Database design and development,4,20,4,4
+15,If the load exceeds the user’s pattern it is known as? ,Alpha testing,Beta testing,Stress testing,Acceptance testing,3,20,4,4

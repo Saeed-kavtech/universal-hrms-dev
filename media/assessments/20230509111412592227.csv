@@ -1,0 +1,13 @@
+﻿S.#,Question,Option1,Option2,Option3,Option4,Option5,Option6,Answer,Time,complexity_level,total_options
+1,synonyms of    RESTIVE,Restful,Restless,Crucial ,Pause,,,2,15,2,4
+2,synonyms of   CRAVEN,Cowardly ,Laziness,Polietly ,Arrogent,,,1,15,2,4
+3, Solve for x: when ,x=y+2,x=y+2,x=2y+4,x=2y+6,,,4,45,5,4
+4,Interest obtained on a sum of Rs. 5000 for 3 years is Rs. 1500. Find the  percent rate.,8%,9%,10%,11%,,,4,40,3,4
+5,What is the probability of getting a sum 9 from two throws of a dice?, ,, ,,,,3,15,2,4
+6,A single location in space is called a,Line,Point,Place,Ray,,,2,15,1,4
+7,"A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally,
+he had:",588 Apples,600 Apples,672 Apples,700 Apples,,,4,45,3,4
+8,"In the Middle Ages, returning prisoners in exchange for money became common instead of putting to death. Though the act was humane.the primary reasons behind it were(        ) rather than (            ).","humanitarian, economic","economic, humanitarian","customs,humanitarian",,"customs,economics","customs,promise",2,30,1,6
+9,"Which number comes next in the following series. 30.8, 30, 29.2, 28.4, …..",27.6,26.7,27.5,27,,,1,30,2,4
+10,"Rates for having a manuscript typed at a certain typing service are $5 per page for the first time a page is typed and $3 per page each time a page is revised. If a certain manuscript has 100 pages, of which 40 were revised only once, 10 were revised twice, and the rest required no revisions, what was the total cost of having the manuscript typed?",$430 ,$620 ,$650 ,$680 ,$770 ,,4,90,5,5
+11,"Running at the same constant rate, 6 identical machines can produce a total of 33 widgets per hour. At this rate, how many widgets could 14 such machines produce in 3 hours?",66,231,462,693,909,,2,50,5,5

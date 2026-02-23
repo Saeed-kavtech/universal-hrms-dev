@@ -1,0 +1,11 @@
+S.#,Question,Option1,Option2,Option3,Option4,Answer,Time,complexity_level,total_options
+1,  Boundary value analysis belong to?,White Box Testing.,Black Box Testing.,Grey Box Testing,White & Black Box Testing.,2,20,1,4
+2,  What are the various Testing Levels?,Unit Testing,Integration Testing,Integration Testing,All of the above,4,20,2,4
+3,  Acceptance testing is also known as,Grey box testing,White box testing,Alpha Testing,Beta testing,4,20,3,4
+4, Unit testing is done by,Users,Developers,Customers,None of the above,2,20,4,4
+5,  Validation refers to the set of tasks that ensure that software correctly implements a specific function,TRUE,FALSE,,,2,20,5,2
+6,  Which of the following is non-functional testing?,Black box testing,Performance testing,Unit testing,Regression Testing,2,30,1,4
+7,"  From the given alternatives, select the word which CANNOT be formed using the letters of the given word:‘DEMONSTRATION’",Moon,Most,Train,Damage,4,30,2,4
+8, The command to remove rows from a table ‘CUSTOMER’ is:,REMOVE FROM CUSTOMER …,DROP FROM CUSTOMER …,DELETE FROM CUSTOMER WHERE …,UPDATE FROM CUSTOMER …,3,30,3,4
+9,   If we want to retrieve data from 2 different tables which function of SQL can we use?,UNION,UNION ALL,JOIN,ALL OF THE ABOVE,4,30,4,4
+10,  You can add a row using SQL in a database with which of the following?,ADD,CREATE,INSERT,MAKE,3,30,5,4
