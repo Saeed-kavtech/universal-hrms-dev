@@ -365,6 +365,7 @@ PASSWORD_RESET_TIMEOUT = 900
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://192.168.100.245:3000",
+    "http://143.198.202.145:8000",
     "http://localhost:3001",
     "http://127.0.0.1:3000",
     "http://kav.smartpems.com",
