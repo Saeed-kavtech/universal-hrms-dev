@@ -25,5 +25,5 @@ local_settings.py
 # Ignore sensitive or private files containing secret keys or credentials
 secret_key.txt
 credentials.json
-manage.py
+# manage.py
 /static
