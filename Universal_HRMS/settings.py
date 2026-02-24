@@ -158,18 +158,18 @@ WSGI_APPLICATION = 'Universal_HRMS.wsgi.application'
 
 
 
-DATABASES = {
+# DATABASES = {
 
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'universal_hrms_live', 
-        'USER': 'doadmin', 
-        'PASSWORD': 'AVNS_5keKYEeTFgyynlu9uTc', 
-        'HOST': 'universal-hrms-do-user-14986681-0.c.db.ondigitalocean.com',
-        'PORT': '25060',
-    }
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'universal_hrms_live', 
+#         'USER': 'doadmin', 
+#         'PASSWORD': 'AVNS_5keKYEeTFgyynlu9uTc', 
+#         'HOST': 'universal-hrms-do-user-14986681-0.c.db.ondigitalocean.com',
+#         'PORT': '25060',
+#     }
 
-}
+# }
 
 
 
@@ -188,7 +188,18 @@ DATABASES = {
 
 # }
 
+DATABASES = {
 
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'universal_hrms_dev_db', 
+        'USER': 'doadmin', 
+        'PASSWORD': 'AVNS_5keKYEeTFgyynlu9uTc', 
+        'HOST': 'universal-hrms-do-user-14986681-0.c.db.ondigitalocean.com',
+        'PORT': '25060',
+    }
+
+}
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
